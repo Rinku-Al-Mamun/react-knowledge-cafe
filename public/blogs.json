@@ -6,7 +6,7 @@
     "author": "John Doe",
     "author_img": "https://i.ibb.co/rFDm6Jv/01020398.jpg",
     "posted_date": "2024-03-27",
-    "reading_time": "45 mins",
+    "reading_time": 45,
     "hashtag": [
         "adventure",
         "fiction",
@@ -20,7 +20,7 @@
     "author": "Jane Smith",
     "author_img": "https://i.ibb.co/rFDm6Jv/01020398.jpg",
     "posted_date": "2024-03-26",
-    "reading_time": "30 mins",
+    "reading_time": 30,
     "hashtag": [
         "cooking",
         "recipes",
@@ -34,7 +34,7 @@
     "author": "Alan Johnson",
     "author_img": "https://i.ibb.co/rFDm6Jv/01020398.jpg",
     "posted_date": "2024-03-25",
-    "reading_time": "60 mins",
+    "reading_time": 60,
     "hashtag": [
         "programming",
         "coding",
@@ -48,7 +48,7 @@
     "author": "Emily Brown",
     "author_img": "https://i.ibb.co/rFDm6Jv/01020398.jpg",
     "posted_date": "2024-03-24",
-    "reading_time": "40 mins",
+    "reading_time": 40,
     "hashtag": [
         "health",
         "fitness",
